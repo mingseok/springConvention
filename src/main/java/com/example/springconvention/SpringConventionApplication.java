@@ -8,6 +8,7 @@ public class SpringConventionApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringConventionApplication.class, args);
+        // 깃 테스트
     }
 
 }
